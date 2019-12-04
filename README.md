@@ -1,8 +1,7 @@
 # Final Project
 
-Your Name, yourcontact@ucsd.edu
+Yudi Wang, yuw043@ucsd.edu
 
-(Your teammates' contact info, if appropriate)
 
 ## Abstract Proposal
 
