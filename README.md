@@ -9,7 +9,7 @@ I do love the the famous bamboo fighting scene from the film *Crouching Tiger, H
 
 Basic idea of video style transfer is first dividng the video into a sequence of frames, then apply the arbitrary style transfer algorithm on these frames one by one. The last simple step is combining these stylized frames together and thus we have a style transferred ballet dance video. For the style transfer step, I choose the arbitray-style-transfer model which is flexible and manageable. The original video format is mp4 and the reansferred one is avi which has small memory assumption.
 
-Basic idea of audio style transfer
+Basic idea of audio style transfer is synthesizes audio "content" and "style" independently using the magnitudes of a short time Fourier transform, shallow convolutional networks with randomly initialized filters, and iterative phase reconstruction with Griffin-Lim. 
 
 
 ## Project Report
@@ -40,15 +40,24 @@ In order to get the best result, I tried different chinese ink painting style im
 
 ## Technical Notes
 
-For the style transfer part, I use the code from the below repository: https://github.com/elleryqueenhomels/arbitrary_style_transfer
+- For the video style transfer part, I use the code from the below repository: https://github.com/elleryqueenhomels/arbitrary_style_transfer
 
-Required package: cv2 and lower version of scipy(1.1.0).
+- Required package: cv2 and lower version of scipy(1.1.0).
 
-Code is worked on colab platform which is easy to install the older version of scipy(1.1.0).
+- For the audio style transfer part, I use the code offered by colab seedbank:
+https://colab.research.google.com/drive/18_DckMGM-fsSthIqZI9sOAlY6I3plDLD?sandboxMode=true#forceEdit=true&offline=true&sandboxMode=true
+
+- Code is worked on colab platform which is easy to install the older version of scipy(1.1.0).
+
 
 ## Reference
 
 - Arbitrary_Style_Transfer https://github.com/elleryqueenhomels/arbitrary_style_transfer
 
 - Audio Style Transfer https://colab.research.google.com/drive/18_DckMGM-fsSthIqZI9sOAlY6I3plDLD?sandboxMode=true#forceEdit=true&offline=true&sandboxMode=true
+
+> [1]. D. Ulyanov and V. Lebedev, “Audio texture synthesis and style transfer,” 2016
+
+> [2]. P. K. Mital. _Time Domain Neural Audio Style Transfer_. Presented at the Workshop on Machine Learning for Creativity and Design at the Neural Information Processing Systems Conference 2017 (NIPS2017), December 3 – 9, 2017.  [arxiv](https://arxiv.org/abs/1711.11160) [workshop](https://nips2017creativity.github.io)
+
 
