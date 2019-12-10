@@ -48,5 +48,7 @@ Code is worked on colab platform which is easy to install the older version of s
 
 ## Reference
 
-Arbitrary_Style_Transfer https://github.com/elleryqueenhomels/arbitrary_style_transfer
+- Arbitrary_Style_Transfer https://github.com/elleryqueenhomels/arbitrary_style_transfer
+
+- Audio Style Transfer https://colab.research.google.com/drive/18_DckMGM-fsSthIqZI9sOAlY6I3plDLD?sandboxMode=true#forceEdit=true&offline=true&sandboxMode=true
 
