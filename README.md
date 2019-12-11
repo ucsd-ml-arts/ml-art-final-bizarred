@@ -2,6 +2,7 @@
 
 Yudi Wang, yuw043@ucsd.edu
 
+<img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/frame0436.jpg" width="500">
 
 ## Abstract Proposal
 
@@ -37,6 +38,9 @@ Video document is scrapped from Youtube
   
   2. Style Music: 
   
+  
+<img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Audio%20Stylized%20Result/Audio%20Result.png" width="800">
+
   > Part 1: https://www.youtube.com/watch?v=ZvJE_BEADpI （食之契約 櫻之島BGM：如夢似幻）
   
   > Part 2: https://www.youtube.com/watch?v=m1eKVWn0vls (Dans la Maison Theme Soundtrack - Philippe Rombi (HD 1080P))
