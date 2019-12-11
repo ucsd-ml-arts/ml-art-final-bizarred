@@ -33,7 +33,11 @@ Video document is scrapped from Youtube
 
 - For the audio style transfer part, code is adopted from the colab seedbank: Audio_Style_Transfer.ipynb
 
-  1. Content Music: https://www.youtube.com/watch?v=S5AjtMNnWf0&list=PLW2r9GbkzeG3H2IjCanmZnlJGwg8Ui0no&index=1
+  1. Content Music: 
+  
+  https://www.youtube.com/watch?v=S5AjtMNnWf0&list=PLW2r9GbkzeG3H2IjCanmZnlJGwg8Ui0no&index=1
+  
+  
   （Crouching Tiger, Hidden Dragon OST #1 - Crouching Tiger, Hidden Dragon）
   
   2. Style Music: 
