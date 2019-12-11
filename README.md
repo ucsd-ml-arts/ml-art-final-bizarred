@@ -22,7 +22,7 @@ Upload your project report (4 pages) as a pdf with your repository, following th
 
 The adopted model is arbitrary style transfer algorithm which is based on pretrained VGG-19. For the style picture, I collected via google and after try all of them, only reserve the good ones. The final picked style picture are shown as below:
 
-<img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Video%20Stylized%20Result/Style%20Images.png" width="500">
+<img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Video%20Stylized%20Result/Style%20Images.png" width="800">
 Video document is scrapped from Youtube
 
 1. https://www.youtube.com/watch?v=FEPf1M0n5SM&t=139s
