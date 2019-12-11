@@ -55,6 +55,15 @@ Following code is run on colab platform:
 
 ## Results
 
+> For audio style transfer:
+
+Process can be found in the following link:
+
+https://drive.google.com/file/d/19J2Poh7G0ao1kJXAwahaEhx9if50gdFH/view?usp=sharing
+
+
+> For video style transfer:
+
 In order to get the best result, I tried tens of painting style images. Final result are shown as below:
 <img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Video%20Stylized%20Result/style.001.jpeg" width="500">
 <img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Video%20Stylized%20Result/style.002.jpeg" width="500">
