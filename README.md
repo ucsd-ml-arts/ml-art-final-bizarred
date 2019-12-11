@@ -24,6 +24,10 @@ The adopted model is arbitrary style transfer algorithm which is based on pretra
 
 Video document is scrapped from Youtube
 
+1. https://www.youtube.com/watch?v=FEPf1M0n5SM&t=139s
+
+2. https://www.youtube.com/watch?v=KXIJv1NoXmo
+（Crouching Tiger, Hidden Dragon (7/8) Movie CLIP - Bamboo Forest Fight (2000) HD）
 
 - For the audio style transfer part, code is adopted from the colab seedbank.
 
