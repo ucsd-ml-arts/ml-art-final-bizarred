@@ -18,7 +18,7 @@ Upload your project report (4 pages) as a pdf with your repository, following th
 
 ## Model/Data
 
-- For the video style transfer part:
+- For the video style transfer part: Video_Style_Transfer-2.ipynb
 
 The adopted model is arbitrary style transfer algorithm which is based on pretrained VGG-19. For the style picture, I collected via google and after try all of them, only reserve the good ones. The final picked style picture are shown as below:
 
@@ -29,7 +29,7 @@ Video document is scrapped from Youtube
 2. https://www.youtube.com/watch?v=KXIJv1NoXmo
 （Crouching Tiger, Hidden Dragon (7/8) Movie CLIP - Bamboo Forest Fight (2000) HD）
 
-- For the audio style transfer part, code is adopted from the colab seedbank.
+- For the audio style transfer part, code is adopted from the colab seedbank: Audio_Style_Transfer.ipynb
 
 ## Code
 
@@ -40,7 +40,13 @@ Following code is run on colab platform:
 
 ## Results
 
-In order to get the best result, I tried different chinese ink painting style images, which is shown as below:
+In order to get the best result, I tried tens of painting style images. Final result are shown as below:
+<img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Video%20Stylized%20Result/style.001.jpeg" width="735">
+<img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Video%20Stylized%20Result/style.002.jpeg" width="735">
+<img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Video%20Stylized%20Result/style.003.jpeg" width="735">
+<img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Video%20Stylized%20Result/style.004.jpeg" width="735">
+
+
 
 ## Technical Notes
 
