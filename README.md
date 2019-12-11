@@ -41,11 +41,14 @@ Following code is run on colab platform:
 ## Results
 
 In order to get the best result, I tried tens of painting style images. Final result are shown as below:
-<img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Video%20Stylized%20Result/style.001.jpeg" width="735">
-<img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Video%20Stylized%20Result/style.002.jpeg" width="735">
-<img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Video%20Stylized%20Result/style.003.jpeg" width="735">
-<img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Video%20Stylized%20Result/style.004.jpeg" width="735">
+<img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Video%20Stylized%20Result/style.001.jpeg" width="500">
+<img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Video%20Stylized%20Result/style.002.jpeg" width="500">
+<img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Video%20Stylized%20Result/style.003.jpeg" width="500">
+<img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Video%20Stylized%20Result/style.004.jpeg" width="500">
 
+The final version of the video can be viewed at the below link:
+
+https://drive.google.com/file/d/12pjGmoAiRq0AkjolQnozrbZgFUJSfF16/view?usp=sharing
 
 
 ## Technical Notes
