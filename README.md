@@ -9,7 +9,7 @@ I do love the the famous bamboo fighting scene from the film *Crouching Tiger, H
 
 Basic idea of video style transfer is first dividng the video into a sequence of frames, then apply the arbitrary style transfer algorithm on these frames one by one. The last simple step is combining these stylized frames together and thus we have a style transferred ballet dance video. For the style transfer step, I choose the arbitray-style-transfer model which is flexible and manageable. The original video format is mp4 and the reansferred one is avi which has small memory assumption.
 
-Basic idea of audio style transfer is synthesizes audio "content" and "style" independently using the magnitudes of a short time Fourier transform, shallow convolutional networks with randomly initialized filters, and iterative phase reconstruction with Griffin-Lim. 
+Basic idea of audio style transfer is synthesizes audio "content" and "style" independently using the magnitudes of a short time Fourier transform, shallow convolutional networks with randomly initialized filters, and iterative phase reconstruction with Griffin-Lim. In order to make comparsion between different style, I adopt same music content with different style. The result is quite interesting.
 
 
 ## Project Report
@@ -31,6 +31,20 @@ Video document is scrapped from Youtube
 （Crouching Tiger, Hidden Dragon (7/8) Movie CLIP - Bamboo Forest Fight (2000) HD）
 
 - For the audio style transfer part, code is adopted from the colab seedbank: Audio_Style_Transfer.ipynb
+
+  1. Content Music: https://www.youtube.com/watch?v=S5AjtMNnWf0&list=PLW2r9GbkzeG3H2IjCanmZnlJGwg8Ui0no&index=1
+  （Crouching Tiger, Hidden Dragon OST #1 - Crouching Tiger, Hidden Dragon）
+  
+  2. Style Music: 
+  
+  > Part 1: https://www.youtube.com/watch?v=ZvJE_BEADpI （食之契約 櫻之島BGM：如夢似幻）
+  
+  > Part 2: https://www.youtube.com/watch?v=m1eKVWn0vls (Dans la Maison Theme Soundtrack - Philippe Rombi (HD 1080P))
+  
+  > Part 3：https://www.youtube.com/watch?v=JOb0AuZ9Gzs (Mark Petrie - Go Time Extended)
+  
+  > Part 4: https://www.youtube.com/watch?v=3G2TF4jgJCs&list=PLzBLIrZhm6tZYLPWUh_rRmjq_6DH-0PpO&index=3 (Requiem for a Dream [Música de Suspense] Full theme song)
+
 
 ## Code
 
