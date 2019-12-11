@@ -42,8 +42,7 @@ Video document is scrapped from Youtube
   
   2. Style Music: 
   
-  
-<img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Audio%20Stylized%20Result/Audio%20Result.png" width="800">
+
 
   > Part 1: https://www.youtube.com/watch?v=ZvJE_BEADpI （食之契約 櫻之島BGM：如夢似幻）
   
@@ -64,6 +63,8 @@ Following code is run on colab platform:
 ## Results
 
 > For audio style transfer:
+
+<img src="https://github.com/ucsd-ml-arts/ml-art-final-bizarred/blob/master/Audio%20Stylized%20Result/Audio%20Result.png" width="800">
 
 Process can be found in the following link:
 
