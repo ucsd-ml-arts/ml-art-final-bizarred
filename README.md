@@ -15,7 +15,7 @@ Basic idea of audio style transfer is synthesizes audio "content" and "style" in
 
 ## Project Report
 
-Upload your project report (4 pages) as a pdf with your repository, following this template: [google docs](https://drive.google.com/open?id=1mgIxwX1VseLyeM9uPSv5GJQgRWNFqtBZ0GKE9d4Qxww).
+ECE188_Final_Project_Report.pdf
 
 ## Model/Data
 
